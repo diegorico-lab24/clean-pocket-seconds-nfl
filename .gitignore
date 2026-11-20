@@ -1,0 +1,10 @@
+data/
+node_modules/
+frontend/dist/
+backend/cache/
+__pycache__/
+*.pyc
+*.tsbuildinfo
+.env
+.env.*
+entrega-nfl.zip
